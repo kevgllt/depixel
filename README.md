@@ -1,2 +1,2 @@
 # depixel
-Install Pi Pixel Desktop on Debian or Ubuntu
+Install Pi Pixel Desktop on Debian
