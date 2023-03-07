@@ -1,3 +1,4 @@
+#!/bin/bash
 # add the raspberry pi os gpg key
 wget -O - http://archive.raspberrypi.org/debian/raspberrypi.gpg.key | sudo apt-key add -
 # add the raspberry pi os apt repository
